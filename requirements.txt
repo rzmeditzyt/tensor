@@ -1,6 +1,7 @@
 absl-py==0.1.10
 appnope==0.1.0
 bleach==1.5.0
+cycler==0.10.0
 decorator==4.2.1
 entrypoints==0.2.3
 html5lib==0.9999999
@@ -17,6 +18,7 @@ jupyter-console==5.2.0
 jupyter-core==4.4.0
 Markdown==2.6.11
 MarkupSafe==1.0
+matplotlib==2.1.2
 mistune==0.8.3
 nbconvert==5.3.1
 nbformat==4.4.0
@@ -30,7 +32,9 @@ prompt-toolkit==1.0.15
 protobuf==3.5.1
 ptyprocess==0.5.2
 Pygments==2.2.0
+pyparsing==2.2.0
 python-dateutil==2.6.1
+pytz==2017.3
 pyzmq==16.0.4
 qtconsole==4.3.1
 Send2Trash==1.4.2
